@@ -1,0 +1,6 @@
+101 3 2 0 (null) (null)
+102 3 2 0 (null) (null)
+103 2 1 0 (null) (null)
+104 4 3 0 (null) (null)
+205 7 4 0 (null) (null)
+0 0 0 0 0 0 (null)
