@@ -776,8 +776,7 @@ int main()
 {
     int choice;
     int flag = 1;
-    read_sellers_from_file();
-    read_transactions_from_file();
+
     while (flag)
     {
         printf("\n----------------------------------------------------------------------\n");
@@ -896,7 +895,6 @@ int main()
             break;
         }
     }
-    write_transactions_to_file();
-    write_sellers_to_file();
+
     return 0;
 }
